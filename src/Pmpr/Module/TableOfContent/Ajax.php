@@ -4,4 +4,4 @@
     |             6534d71945797             |
     |_______________________________________|
 */
- use Pmpr\Module\TableOfContent\TableOfContent; TableOfContent::symcgieuakksimmu();
+ namespace Pmpr\Module\TableOfContent; class Ajax extends Container { }
