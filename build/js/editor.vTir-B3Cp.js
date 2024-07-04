@@ -1,2 +1,2 @@
-/*! For license information please see editor.JMyVn2OH_.js.LICENSE.txt */
+/*! For license information please see editor.vTir-B3Cp.js.LICENSE.txt */
 !function(){const e=PRHelper.getHook(),t=(PRHelper.getType(),PRHelper.getHTML(),PRBackendHelper.getForm());e.on("click","#table_of_content_translate_heading_anchors",(e=>{t.getEditorContent("content")}))}();
